@@ -9,4 +9,4 @@ git branch demo-feature
 git add .
 echo "Demo" > demo.txt
 git remote add origin <URL>
-git push -u origin demo-feature
+git push -u origin demo-feature/main
